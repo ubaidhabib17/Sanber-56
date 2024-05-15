@@ -1,2 +1,2 @@
 # Sanber-56
-test automation sanber QA bootcamp
+test automation sanber QA bootcamp update
